@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<!--Great code right here -->
+<html>
+<head> 
+    <meta name="description" content="Amayzing stuff aboot Bart">
+    <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Pangolin" rel="stylesheet">
+    <title>All aboot me</title>
+    <style>
+                html {
+                    background: darkRed;
+                    color: orange;
+                    margin: 0 auto 0 auto;
+                }
+                a {
+                    text-decoration: none;
+                    color: orange;
+                }
+                a:hover {
+                    text-decoration: underline;
+                    color: blue;
+                    }
+                a:visited {
+                    color: navy;
+                    }
+
+                header {
+                    margin: 0 auto;
+                    border: 140px orange solid;
+                        
+                    }
+                footer {
+                    font: bold 8px 'Courier', monospace;
+                    margin: 0 auto 0 auto;
+                }
+                selection {
+                    font: normal 14px'Courier', monospace;
+                }
+                h1 {
+                    font: bold 25px 'Courier', monospace;
+                }
+                h3 {
+                    font: bold 20px 'Courier', monospace;
+                    text-decoration: none;
+                    margin:30px 0px 0px 0px;
+                }
+                hr {
+                    display: block;
+                    height: 1px;
+                    border: 0;
+                    border-top: 5px solid orange;
+                    margin: 0;
+                    padding: 0;
+                }
+                img {
+                        
+                }
+                p {
+                        margin: 14px 0px 10px 0px;
+                        font: 'Courier New', monospace;
+                }
+    </style>
+</head>
+<header>
+    <center><strong><h1>Who is Bart?</h1></strong></center>
+</header>
+<br>
+<br>
+<selection>
+    <center>Iz info good yah? 
+    <br>
+    <br>
+    <a href="https://memegenerator.net/img/instances/80147240/sad.jpg" target="_blank"> <img src="https://memegenerator.net/img/instances/80147240/sad.jpg" height=550 title="SAD!" alt="sad"></a></center>
+    <center><strong><h3>Introduction</h3></strong>
+    </center>
+    <hr>
+    <p>
+    <strong>Name:              </strong>Bartlomiej Chelminski
+    <p>
+    <strong>Brithdate:         </strong>January 5<sup>th</sup>, 2000
+    <p>
+    <strong>Place of Birth:    </strong>[Some hospital in Downtown] Chicago, Illinois
+    <p>
+    <strong>Family:            </strong>My family (here in 'Merica) consists of my mother and father, whom I live with, as well as my brother (who lives in Texas). 
+    <p>
+    <strong>Why I have my name:</strong> My parents were having difficulty deciding on a name, and asked my brother what to name me. He wanted to name me after Bart Simpson. So, my name is now Bart.
+    <p>
+    <strong>Ethnic background:</strong> My family hails from poland. My parents came here during the 80s to get out of the country (it was ruled by communists at the time, and they felt that if they wanted a good life for their first child (my brother) they had to leave the country. My father always wanted to go to America, and so they did. I still have family in Poland (grandmother on my mother's side is still there, as well as uncles, aunts and cousins. My mother's youngest sister lives in Swizerland, and I have some other family spread out in Italy and some other parts of Europe. 
+<!--fantastic section right here-->
+    <center><strong><h3>Early Years & Elementary School</h3></strong></center>
+    <hr>
+    <br>
+    <p>I grew up on the north side of Chicago and attended a private school, run by the catholic church my family attended. There, on the weekends, I also took Polish Language & Culture courses (aka. Polish School, as was popularly called by students, staff and parents); that was for about 10 years, until I quite during my sophmore year of highschool. In elementary school, and particularly in polish school, I was in a lot of plays, some of which I had a leading role in. 
+    <p>I remember I went to Florida on vaction with my family a couple of times during this period of time. On a memorable occasion we visited a (uh, idk what it was, a petting zoo? animal sanctuary?) where we saw some crocodiles. My parents and brother went into the pen to pet them, but I was terrified of getting eaten and didn't do that. Another time, a really big (compared to my small, 6-year-old stature) lizard ran underneath my feat, and another time a chocolate bar I was eating melted all over my chest in the heat. 
+    <p>To learn to swim, my parents sent me to join a swimming course at a university my brother was then enrolled in (Northeastern). I did that for a few years and eventually left. 
+    <p>I'd say more, but that's all I'm willing to share (and/or remember). 
+    <center><strong><h3>Middle School</h3></strong></center>
+    <hr>
+    <p>The school run by the teacher was K-8<sup>th</sup> so I attended middle school there as well. I was involved in more plays (all in polish school) and got involved in the polish dance group at the church. Later, I was joined a normal dance group (the ones at the school were more for begginners and my instructors recommended I move on to a more professional group suited to my skill level. I did, joining a dance group at the Kopernicus Center in Jefferson Park. After about a year and a half I left. I was already tired of dancing before I left the original group I belonged to, but reluctantly joined a the new one. 
+    <p>I was never involed in any sports, well permenantly, but I did join a martial arts school, where I learned Taw Kwon Do. I eventually ranked up to earn a black belt. I continued throughout most of highschool (having to take a break several times due to injuries from either TKD or sports injuries outside of the school). I eventually left the school earlier this year. 
+    <center><strong><h3>High School</h3></strong></center>
+    <hr>
+    <p>I was, after a cr@p enrollment process - I say this for the way the enrollment process was set up at the time I was applying to highschool, the "tier" of the city I lived in meant that I, and the rest of the kids applying to  magnet school from my class, had to get absurdly high marks on the exams and enrollment process to have any chance of getting into a 'good' school - admitted to <strong><em>The Whitney M. Young Magent Highschool of Chicago, Illinois.</em></strong> (That's a poke at Dr. Kenner in the speech she gave to my grade at the beginning of freshman year about decorum and whatnot). 
+    <p>I was involved in a medical program for highschoolers interested in the medical field at the UIC, which was interesting. I really liked the program, and learned new things about medicine and the medical field. Eventually I had to leave due to reasons unrelated to the program, but I had a good time there while it lasted. 
+    <p>About the time I got to highschool my parents bought me a new smartphone. Eventually I also got my driver's liscence (last year). Meh, not much else to say. 
+    <center><strong><h3>Future plans</h3></strong></center>
+    <hr>
+    <p>I'm thinking about college. I hope to persue a career in the medical field. What exactly, I'm not sure yet. That's about it. Nothing much to say for this section.
+    <center><strong><h3>More About Me</h3></strong></center>
+    <hr>
+    <p>Not much to say here.</p>
+    <p>Here are some unrelated pictures I'd like to share with you:
+    <center>
+    <br><br>
+      <a href="http://i.ytimg.com/vi/qwHNHnW6xTo/hqdefault.jpg" target="_blank"> <img src="http://i.ytimg.com/vi/qwHNHnW6xTo/hqdefault.jpg" height=450 title="butter boi" alt="image_not_found"></a>
+    <br><br>
+    <a href="http://images.amcnetworks.com/ifc.com/wp-content/uploads/2014/04/tumblr_n4hamug8hl1qhcd6po2_500.gif" target="_blank"> <img src="http://images.amcnetworks.com/ifc.com/wp-content/uploads/2014/04/tumblr_n4hamug8hl1qhcd6po2_500.gif" height=361 title="McGimmieYerCash" alt="sorry_boi"></a>
+    <br><br>
+    <a href="http://2.media.collegehumor.cvcdn.com/45/48/f3ec0ab814eb14b3393d3b23c5b39139.jpg" target="_blank"> <img src="http://2.media.collegehumor.cvcdn.com/45/48/f3ec0ab814eb14b3393d3b23c5b39139.jpg" height=452 title="Disney Vacation" alt="Disney Vacation"></a>
+    <br><br>
+    <a href="https://cuteoverload.files.wordpress.com/alexis-3971-1-_tplq.jpg?w=500&h=428" target="_blank"> <img src="https://cuteoverload.files.wordpress.com/alexis-3971-1-_tplq.jpg?w=500&h=428" height=520 title=":3" alt="kitty gone"></a>
+    </center>
+    <br><br>
+</selection>
+<footer><center>©2017</center></footer>
+</html>
+
+<!-- mep -->
